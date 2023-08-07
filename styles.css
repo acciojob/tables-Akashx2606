@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.tb-head{
+	background-color: black;
+	color:white;
+}
+.total{
+	font-weight: bold
+	
+}
